@@ -50,11 +50,6 @@ Mersin merkezli, karmaşık problemleri zarif yazılım çözümlerine dönüşt
 
 ---
 
-### 🌟 Öne Çıkan Çalışmalar
-
-*   🚌 **[Rota Uzmanı PRO](https://github.com/ozgurkran/ROTA-UZMANI-PRO-UKOME)**: Mersin Büyükşehir Belediyesi UKOME standartlarında, 25 dakikalık build süresini 8 saniyeye indirdiğimiz akıllı güzergah analiz platformu.
-
----
 
 ### 📫 İletişim
 
